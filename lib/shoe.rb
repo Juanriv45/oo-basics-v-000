@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Make your shoe class here!
 class Shoe
   attr_accessor :color, :size, :material, :condition
@@ -13,7 +13,7 @@ class Shoe
   end
 
 end
-=======
+
 # Make your shoe class here!
 class Shoe
   attr_accessor :color, :size, :material, :condition
@@ -25,4 +25,4 @@ class Shoe
 
 
 end
->>>>>>> 4a30e09f8c0073781f99dc84c568cf1edf576def
+
